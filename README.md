@@ -1,2 +1,2 @@
-# high-avail
-high availability scenarios
+# AWS-high-avail
+AWS high availability Architectures
